@@ -16,24 +16,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-laia/)
 
-## Skills ⚡
-
-**Programming Languages**  
-Python, SQL, HTML, CSS, Java, JavaScript, PHP, JSP
-
-**Databases**  
-Relational & Multidimensional Modelling, SQL DDL/DML, MySQL/SQL, MongoDB, Neo4j/Cypher
-
-**Frameworks and Technologies**  
-Git, Laravel, MySQL, REST APIs, SQLite, Object-Oriented Programming (OOP), Linux
-
-**Networking, Cloud and Security**  
-Cisco/CCNA Fundamentals, IPv4/IPv6, VLAN, DHCP, AWS Fundamentals, Cybersecurity Fundamentals
-
 ---
-
+<div align="center">
 <sub>🔭 Always learning, building, and looking for opportunities to grow in technology. ⚡</sub>
-
+</div>
 <!--
 **LuisLaia/LuisLaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
